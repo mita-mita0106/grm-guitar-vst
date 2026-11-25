@@ -74,7 +74,7 @@ if(GRMG_BUILD_PLUGIN)
         BUNDLE_ID "com.innermost47.grm-guitar"
         PLUGIN_MANUFACTURER_CODE Grmc
         PLUGIN_CODE Grmg
-        FORMATS VST3 Standalone
+        FORMATS AU VST3 Standalone
         PRODUCT_NAME "GRM Guitar"
         IS_SYNTH TRUE
         NEEDS_MIDI_INPUT TRUE
